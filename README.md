@@ -1,5 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
+[Round 1 - Javascript](R1-log.md)
+
+
 ## Contents
 
 * [Rules](rules.md)
