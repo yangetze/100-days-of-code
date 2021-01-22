@@ -24,3 +24,11 @@ R1D2 #100DaysOfCode 💜✅ <br />
 <br />
 
 ### R1D3
+[Tweet](https://twitter.com/yangetze/status/1352444992267165700?s=20)
+R1D3 #100DaysOfCode 💜✅<br />
+🟣 I learned about "String Immutability", it's pretty interesting concept. <br />
+🟣 About English, I discovered "third-to-last", "second-to-last", and my head is like 😲<br />
+<br />
+#Javascript #WomenWhoCode
+
+### R1D4
