@@ -37,21 +37,21 @@ R1D3 #100DaysOfCode 💜✅<br />
 R1D4 #100DaysOfCode 💜✅<br />
 🟣 I went over about "Manipulate Array" and I want to practice more about it. Any suggestions?
 
+<br /> INFO:
+<br />Array: 
+<br />// To add element
+<br />Unshift = Adds the element at the beginning of the array
+<br />Push = Add an element to last position of array
+<br />// To delete element
+<br />Pop = Remove last element of array and shows it. 
+<br />Shift = Removes first element of array and shows it.
 
-Array: 
-// To add element
-Unshift = Adds the element at the beginning of the array
-Push = Add an element to last position of array
-// To delete element
-Pop = Remove last element of array and shows it. 
-Shift = Removes first element of array and shows it.
-
-Example: 
+<br /><br />Example: 
 var myArray = [25, 49, 89, 27, 50];
-myArray = myArray.unshift(15); // [15, 25, 49, 89, 27, 50]
-myArray = myArray.push(16); // [15, 25, 49, 89, 27, 50, 16]
-myArray = myArray.pop(); // [15, 25, 49, 89, 27, 50]
-myArray = myArray.shift(); // [25, 49, 89, 27, 50]
+<br />myArray = myArray.unshift(15); // [15, 25, 49, 89, 27, 50]
+<br />myArray = myArray.push(16); // [15, 25, 49, 89, 27, 50, 16]
+<br />myArray = myArray.pop(); // [15, 25, 49, 89, 27, 50]
+<br />myArray = myArray.shift(); // [25, 49, 89, 27, 50]
 
 Global Scope and Functions
 "Variables which are used without the var keyword are automatically created in the global scope. This can create unintended consequences elsewhere in your code or when running a function again. You should always declare your variables with var."
