@@ -2,6 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
+[4/100]
 
 ## Log
 
@@ -32,3 +33,29 @@ R1D3 #100DaysOfCode 💜✅<br />
 #Javascript #WomenWhoCode
 
 ### R1D4
+[Tweet](https://twitter.com/yangetze/status/1353191885628723201?s=20)<br />
+R1D4 #100DaysOfCode 💜✅<br />
+🟣 I went over about "Manipulate Array" and I want to practice more about it. Any suggestions?
+
+
+Array: 
+// To add element
+Unshift = Adds the element at the beginning of the array
+Push = Add an element to last position of array
+// To delete element
+Pop = Remove last element of array and shows it. 
+Shift = Removes first element of array and shows it.
+
+Example: 
+var myArray = [25, 49, 89, 27, 50];
+myArray = myArray.unshift(15); // [15, 25, 49, 89, 27, 50]
+myArray = myArray.push(16); // [15, 25, 49, 89, 27, 50, 16]
+myArray = myArray.pop(); // [15, 25, 49, 89, 27, 50]
+myArray = myArray.shift(); // [25, 49, 89, 27, 50]
+
+Global Scope and Functions
+"Variables which are used without the var keyword are automatically created in the global scope. This can create unintended consequences elsewhere in your code or when running a function again. You should always declare your variables with var."
+
+
+
+### R1D5
