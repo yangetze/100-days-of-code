@@ -59,3 +59,14 @@ Global Scope and Functions
 
 
 ### R1D5
+[Tweet](https://twitter.com/yangetze/status/1353561418273067008?s=20)<br />
+<br /> Today, I am stuck! Idk what happen with shift() function. When I use it with a console.log works fine, but when I use it inside of a function returns "it's not a function".
+<br /> It's an strange error 
+<br /> 
+<br /> I have a assignment error. See the tweet
+
+### R1D6
+
+
+
+### R1D7
