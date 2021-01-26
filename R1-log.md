@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[4/100]
+[6/100]
 
 ## Log
 
@@ -60,13 +60,19 @@ Global Scope and Functions
 
 ### R1D5
 [Tweet](https://twitter.com/yangetze/status/1353561418273067008?s=20)<br />
-<br /> Today, I am stuck! Idk what happen with shift() function. When I use it with a console.log works fine, but when I use it inside of a function returns "it's not a function".
+<br /> 🟣 Today, I am stuck! Idk what happen with shift() function. When I use it with a console.log works fine, but when I use it inside of a function returns "it's not a function".
 <br /> It's an strange error 
 <br /> 
 <br /> I have a assignment error. See the tweet
 
 ### R1D6
-
+[Tweet](https://twitter.com/yangetze/status/1353899860395700225?s=20)<br />
+<br />R1D6 #100DaysOfCode 💜✅
+<br />🟣 I started with booleans and equality operator 😋
+<br />🟣 > 50% of basics of Javascript at @freeCodeCamp 
+<br />🟣 Step by step is better than nothing 😁
+<br />
+<br />#Javascript #WomenWhoCode
 
 
 ### R1D7
