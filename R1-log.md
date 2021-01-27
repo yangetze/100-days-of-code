@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[6/100]
+[7/100]
 
 ## Log
 
@@ -76,3 +76,22 @@ Global Scope and Functions
 
 
 ### R1D7
+[Tweet](https://twitter.com/yangetze/status/1354274773283577856?s=20)<br />
+<br />
+Comparison with the Strict Equality Operator<br />
+Strict equality (===) is the counterpart to the equality operator (==). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.<br />
+
+Now I understand what's the difference between equality  & strict equality , and inequality  & strict inequality 
+Example: 
+var a = 3, b = '3';
+a == b // true
+a != b // false
+a > b // false
+a < b // false
+a === b // false
+a !== b // true
+...
+
+### R1D8
+
+### R1D9
