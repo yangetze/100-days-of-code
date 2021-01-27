@@ -81,16 +81,17 @@ Global Scope and Functions
 Comparison with the Strict Equality Operator<br />
 Strict equality (===) is the counterpart to the equality operator (==). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.<br />
 
-Now I understand what's the difference between equality  & strict equality , and inequality  & strict inequality 
-Example: 
-var a = 3, b = '3';
-a == b // true
-a != b // false
-a > b // false
-a < b // false
-a === b // false
-a !== b // true
-...
+Now I understand what's the difference between equality  & strict equality , and inequality  & strict inequality <br />
+Example: <br />
+var a = 3, b = '3';<br />
+<br />a == b // true
+<br />a != b // false
+<br />a > b // false
+<br />a < b // false
+<br />a === b // false
+<br />a !== b // true
+<br />...
+<br />
 
 ### R1D8
 
