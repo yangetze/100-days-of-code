@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[7/100]
+[8/100]
 
 ## Log
 
@@ -94,5 +94,13 @@ var a = 3, b = '3';<br />
 <br />
 
 ### R1D8
+[Tweet](https://twitter.com/yangetze/status/1354630152236490759?s=20)<br />
+<br />
+Golf code lesson in Freecodecamp has a level of difficulty but it's nice. <br />
+Lesson learned: First think, after code. <br />
 
 ### R1D9
+
+### R1D10
+
+### R1D11
