@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[8/100]
+[9/100]
 
 ## Log
 
@@ -100,6 +100,13 @@ Golf code lesson in Freecodecamp has a level of difficulty but it's nice. <br />
 Lesson learned: First think, after code. <br />
 
 ### R1D9
+[Tweet](https://twitter.com/yangetze/status/1356438064281829376?s=20)<br />
+<br />
+Switch: Case values are tested with strict equality (===).
+<br/ >Counting Cards is great to practice
+<br/ >I learned about delete properties. I didn't know it! U use → "delete object.propertieName" and that's all my folks!
+
+
 
 ### R1D10
 
