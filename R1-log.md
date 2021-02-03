@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[9/100]
+[10/100]
 
 ## Log
 
@@ -105,9 +105,31 @@ Lesson learned: First think, after code. <br />
 Switch: Case values are tested with strict equality (===).
 <br/ >Counting Cards is great to practice
 <br/ >I learned about delete properties. I didn't know it! U use → "delete object.propertieName" and that's all my folks!
-
-
+<br/ ><br/ >
 
 ### R1D10
+[Tweet](https://twitter.com/yangetze/status/1356813415226998785?s=20)<br /><br />
+🟣 For objects: We can use .hasOwnProperty(propname) method of objects to determine if that object has the given property name. Boolean method
+<br/ >
+🟣 JavaScript Object Notation or JSON
+<br/ >
+🟣 Object vs Array <br/ >
+var object = {}; <br/ >
+var array_Object = []; <br/ >
+🟣 Example:<br/ >
+var person = {
+  top: "head",
+  botton: "legs",
+  middle: "stomach"
+}
+<br/ >
+var person1 = person;
+var person2 = person;
+<br/ >
+var people = [ person1, person2 ]
+<br/ ><br/ >
+
 
 ### R1D11
+
+### R1D12
