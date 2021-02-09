@@ -156,7 +156,8 @@ myPlants.push({type: 'trees', list: ['araguaney', 'pino', 'roble']});<br /><br /
 
 console.log(myPlants[1].list[1]) // result: pino <br />
 🟣 I get stucked with Record Collection. Maybe I need to go over Arrays and Objects again.<br /><br />
-
+<br /><br /> Second chance 👇🏾👇🏾
+[Tweet](https://twitter.com/yangetze/status/1358982629866020870?s=20)<br /><br />
 
 ### R1D12
 
