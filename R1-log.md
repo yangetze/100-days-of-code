@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[10/100]
+[12/100]
 
 ## Log
 
@@ -129,7 +129,37 @@ var person2 = person;
 var people = [ person1, person2 ]
 <br/ ><br/ >
 
-
 ### R1D11
+[Tweet](https://twitter.com/yangetze/status/1357170997430992896?s=20)<br /><br />
+🟣 Looking material for a new project! 
 
 ### R1D12
+[Tweet](https://twitter.com/yangetze/status/1358966772410560512?s=20)<br /><br />
+
+var plant = {type : '', list: {}]
+var myPlants = [{a}, {b}, {c}];
+
+
+{} object <br /><br />
+[] array <br /><br />
+
+🟣 Example: <br />
+var plant = { type: '', list: [] };<br />
+var myPlants = []; or var myPlants = new Array();<br />
+var object = {<br />
+  prop1: key1,<br />
+  prop2, key2<br />
+}<br />
+object.prop1;<br />
+myPlants.push({type: 'flowers', list: ['tulips', 'sunflowers']});<br />
+myPlants.push({type: 'trees', list: ['araguaney', 'pino', 'roble']});<br /><br />
+
+console.log(myPlants[1].list[1]) // result: pino <br />
+🟣 I get stucked with Record Collection. Maybe I need to go over Arrays and Objects again.<br /><br />
+
+
+### R1D12
+
+### R1D13
+
+### R1D14
