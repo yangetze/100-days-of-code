@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[12/100]
+[13/100]
 
 ## Log
 
@@ -159,8 +159,21 @@ console.log(myPlants[1].list[1]) // result: pino <br />
 Second chance 👇👇<br />
 [Tweet](https://twitter.com/yangetze/status/1358982629866020870?s=20)<br /><br />
 
-### R1D12
-
 ### R1D13
+[Tweet](https://twitter.com/yangetze/status/1360426148543557636?s=20)<br /><br />
+About loops: while and for :) <br /><br />
+
 
 ### R1D14
+
+### R1D15
+
+### R1D16
+
+### R1D17
+
+### R1D18
+
+### R1D19
+
+### R1D20
