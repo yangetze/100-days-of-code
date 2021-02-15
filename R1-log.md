@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
 #Javascript
-[13/100]
+[14/100]
 
 ## Log
 
@@ -165,6 +165,8 @@ About loops: while and for :) <br /><br />
 
 
 ### R1D14
+[Tweet](https://twitter.com/yangetze/status/1361357706171416583?s=20)<br /><br />
+About + loops: Do while and recursive functions. <br /><br />
 
 ### R1D15
 
