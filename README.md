@@ -1,8 +1,11 @@
 # I've joined the #100DaysOfCode Challenge
 
-[Round 1 - Javascript](R1-log.md)
 
+# ROUND 1
+* [Log](/R1/R1-log.md)
 
+## Path
+* [Basic Javascript - FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 ## Contents
 
 * [Rules](rules.md)
