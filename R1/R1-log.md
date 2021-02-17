@@ -1,11 +1,10 @@
 # #100DaysOfCode Log - Round 1 - Yangetze
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
-#Javascript
-[14/100]
+[15/100]
 
 ## Log
-
+### *Basic Javascript*
 ### R1D1 
 [Tweet](https://twitter.com/yangetze/status/1351727401949130752?s=20)<br />
 R1D1 #100DaysOfCode 💜✅ <br />
@@ -169,6 +168,8 @@ About loops: while and for :) <br /><br />
 About + loops: Do while and recursive functions. <br /><br />
 
 ### R1D15
+[Tweet](https://twitter.com/yangetze/status/1361889063435927558?s=20)<br /><br />
+[Profile lookup exercise](/R1/profile-lookup.js)
 
 ### R1D16
 
