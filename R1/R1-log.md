@@ -172,6 +172,8 @@ About + loops: Do while and recursive functions. <br /><br />
 [Profile lookup exercise](/R1/profile-lookup.js)
 
 ### R1D16
+[Tweet](https://twitter.com/yangetze/status/1362609560255680513?s=20)<br /><br />
+Generate Random Whole Numbers with JavaScript. 
 
 ### R1D17
 
