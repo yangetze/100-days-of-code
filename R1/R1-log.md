@@ -164,16 +164,16 @@ About loops: while and for :) <br /><br />
 
 
 ### R1D14
-[Tweet](https://twitter.com/yangetze/status/1361357706171416583?s=20)<br /><br />
-About + loops: Do while and recursive functions. <br /><br />
+[Tweet](https://twitter.com/yangetze/status/1361357706171416583?s=20)<br />
+🟣 About + loops: Do while and recursive functions. <br /><br />
 
 ### R1D15
-[Tweet](https://twitter.com/yangetze/status/1361889063435927558?s=20)<br /><br />
-[Profile lookup exercise](/R1/profile-lookup.js)
+[Tweet](https://twitter.com/yangetze/status/1361889063435927558?s=20)<br />
+🟣 [Profile lookup exercise](/R1/profile-lookup.js)
 
 ### R1D16
-[Tweet](https://twitter.com/yangetze/status/1362609560255680513?s=20)<br /><br />
-Generate Random Whole Numbers with JavaScript. 
+[Tweet](https://twitter.com/yangetze/status/1362609560255680513?s=20)<br />
+🟣 [Generate Random Whole Numbers with JavaScript Within a range](/R1/randomWholeNumberWithinARange.js)
 
 ### R1D17
 
