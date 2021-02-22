@@ -1,7 +1,7 @@
 # #100DaysOfCode Log - Round 1 - Yangetze
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
-[15/100]
+[17/100]
 
 ## Log
 ### *Basic Javascript*
@@ -176,6 +176,11 @@ About loops: while and for :) <br /><br />
 🟣 [Generate Random Whole Numbers with JavaScript Within a range](/R1/randomWholeNumberWithinARange.js)
 
 ### R1D17
+[Tweet](https://twitter.com/yangetze/status/1363714746717986818?s=20)<br />
+🟣 About parseInt: 
+> If the first character in the string can't be converted into a number, then it returns NaN.
+
+Radix? I need to go over this concept <br /><br />
 
 ### R1D18
 
