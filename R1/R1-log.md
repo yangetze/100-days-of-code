@@ -186,7 +186,7 @@ Radix? I need to go over this concept <br /><br />
 [Tweet](https://twitter.com/yangetze/status/1364026004830879746?s=20)<br />
 🟣 parseInt. radix 
 >[How it works Radix BINARY](https://www.purplemath.com/modules/numbbase2.htm)<br />
-🟣 [Use recursion to create a countdown exercise](/R1/uuse-recursion-to-create-a-countdown.js)<br />
+🟣 [Use recursion to create a countdown exercise](/R1/use-recursion-to-create-a-countdown.js)<br />
 🟣 [Use recursion to create a range of numbers exercise](/R1/use-recursion-to-create-a-range-of-numbers.js)<br />
 The end of Basic Javascript<br /><br />
 
