@@ -1,7 +1,7 @@
 # #100DaysOfCode Log - Round 1 - Yangetze
 
 The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
-[17/100]
+[18/100]
 
 ## Log
 ### *Basic Javascript*
@@ -183,7 +183,35 @@ About loops: while and for :) <br /><br />
 Radix? I need to go over this concept <br /><br />
 
 ### R1D18
+[Tweet](https://twitter.com/yangetze/status/1364026004830879746?s=20)<br />
+🟣 parseInt. radix 
+>[How it works Radix BINARY](https://www.purplemath.com/modules/numbbase2.htm)<br />
 
+The end of Basic Javascript
+
+<br /><br />
+
+## *ES6*
 ### R1D19
 
 ### R1D20
+
+### R1D21
+
+### R1D22
+
+### R1D23
+
+### R1D24
+
+### R1D25
+
+### R1D26
+
+### R1D27
+
+### R1D28
+
+### R1D29
+
+
